@@ -1,6 +1,6 @@
 Hi, i am ted7007. Im studying in FEFU on programmer profession. 
 I learn .NET 6.0 with C#. 
-Right now my favorite study project is [prototype of Stock Market on grpc](https://github.com/ted7007/StockMarket).
+Right now my favorite study project is [Stock Market API on grpc](https://github.com/ted7007/StockMarket).
 
 
 <!---
